@@ -25,6 +25,9 @@ public class Regnemaskine {
             case '*':
                 result = first * secound;
                 break;
+            case '/':
+                result = first / secound;
+                break;
 
 
             default:
