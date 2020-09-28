@@ -25,9 +25,7 @@ public class Regnemaskine {
             case '*':
                 result = first * secound;
                 break;
-            case '/':
-                result = first / secound;
-                break;
+
 
             default:
                 System.out.printf("Error! Operator is not correct");
