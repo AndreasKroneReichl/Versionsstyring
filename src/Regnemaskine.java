@@ -17,7 +17,7 @@ public class Regnemaskine {
         switch(operator){
 
             case '+':
-                result = first + secound;
+                result = first * secound;
                 break;
             case '-':
                 result = first - secound;
